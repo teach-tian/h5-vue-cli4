@@ -7,7 +7,7 @@
         <div class="demo-home__title">VUE H5开发模板</div>
         <div class="item">
           项目地址:
-          <a href="https://github.com/teach-tian/vue-cli4">https://github.com/teach-tian/vue-cli4</a>
+          <a href="https://github.com/teach-tian/h5-vue-cli4">https://github.com/teach-tian/h5-vue-cli4</a>
         </div>
         <div class="item">项目作者: start</div>
         <div class="item"></div>
@@ -53,7 +53,7 @@ export default {
       this.$store.dispatch('setUserName', '在等你~')
     },
     goGithub(index) {
-      window.location.href = 'https://github.com/teach-tian/vue-cli4'
+      window.location.href = 'https://github.com/teach-tian/h5-vue-cli4'
     }
   }
 }
